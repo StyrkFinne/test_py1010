@@ -1,2 +1,1 @@
-# test_py1010
-test_py1010 arkiv
+Dette er readme-filen til repo-en test_py1010.
